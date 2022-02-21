@@ -42,7 +42,7 @@ public class Main
                 }
                 else
                 {
-                    System.out.println("Player B has entered an incorrect value, run it again!");
+                    System.out.println("Player B has entered an incorrect value.");
                 }
             }
         }
@@ -58,7 +58,7 @@ public class Main
             }
             else
             {
-                System.out.println("Player B has entered an incorrect value, run it again!");
+                System.out.println("Player B has entered an incorrect value.");
             }
         }
         else if (playerA.equalsIgnoreCase("P"))
@@ -73,7 +73,7 @@ public class Main
             }
             else
             {
-                System.out.println("Player B has entered an incorrect value, run it again!");
+                System.out.println("Player B has entered an incorrect value.");
             }
         }
         else
